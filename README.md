@@ -57,6 +57,49 @@ MỤC TIÊU PHẢI ĐẠT ĐƯỢC :<br>
 
 
 
+<h1>lesson 16 ngày 24-2-2021</h1>
+<br>
+<b>Thiết kế cơ sở dữ liệu: </b> <br>
++ B1: Xác định mục đích cửa cơ sở dữ liệu <br>
+<br>
++ B2: Tìm hiểu và tổ chức thông tin cần lưu trữ<br>
+<br>
++ B3: Chia các thông tin vừa tìm hiểu vào các bảng (bộ dữ liệu liên quan với nhau thì cho vào 1 bảng, mỗi bẳng có 1 khóa chính, lọc các dữ liệu không liên quan tới khóa chính sang 1 bảng khác) <br>
+<br>
++ B4: Xác định các trường dữ liệu <br>
+<br>
++ B5: Xác định khóa chính của các bảng 
+<br>
+<br>
++ B6: Xác định mối quan hệ giữa các bảng (1-1,1-n,n-n trường hợp 2 bẳng có quan hệ n-n: cần 1 bảng trung gian với "cặp khóa chính" là khóa chính của 2 bảng quan hệ)
+<br>
+<br>
++ B7: Làm mịn thiết kế 
+<br>
+<br>
++ B8: Chuẩn hóa dữ liệu (chuẩn 1nf-2nf-3nf).
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+-----------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1>lesson 15 ngày 23-2-2021</h1>
 <br>
